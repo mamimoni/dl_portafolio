@@ -1,0 +1,22 @@
+body {
+  padding-top: 61px;
+}
+
+.section {
+  margin-bottom: 2em;
+}
+
+.home-container {
+  background-image: url("../img/Baby.jpg");
+  background-position: 0 -300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+  display: flex;
+  align-items: center;
+  min-height: 400px;
+}
+
+.card {
+  min-height: 465px;
+}
